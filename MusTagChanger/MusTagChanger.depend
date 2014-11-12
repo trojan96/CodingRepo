@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415787242 source:i:\codeblocksprj\01.09.2014-01.07.2015\mustagchanger\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+
